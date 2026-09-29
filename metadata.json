@@ -1,0 +1,6 @@
+{
+  "name": "健康商城",
+  "description": "基于Figma设计规范打造的专业医疗与健康商城小程序，涵盖营养保健、医疗器械、中医滋补、深度体检、在线药师咨询与健康档案管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
